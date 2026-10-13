@@ -1,4 +1,4 @@
-# Ola Voice Assistant - Phase 1 (Login + Database + Voice/Chat + Groq)
+# Ola Voice Assistant - Phase 1 (Login + Database + Voice/Chat)
 
 ## What works in this phase
 - Sign up / Sign in page (one page, two tabs). Registered users just sign in.
